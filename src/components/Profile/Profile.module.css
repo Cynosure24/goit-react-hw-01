@@ -30,7 +30,7 @@
 }
 
 .location {
-  composes: tag;
+  color-scheme: tag;
 }
 .stats {
   display: block;
